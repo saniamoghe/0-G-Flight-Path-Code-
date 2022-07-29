@@ -28,7 +28,7 @@ NON-changeable variables for flightplan: these can NOT be changed by the user
 - lowLevelRise = used to calculate P1 of rising phase 
 - highLevelRise = used to calculate P2 of rising phase
 '''
-increment = 1
+increment = .1
 scale = 0
 gconstant = 9.807
 hmin = 10
